@@ -2,7 +2,7 @@ import React from "react";
 
 const Socials: React.FC = () => {
   return (
-    <div className="flex justify-end text-lg font-light">
+    <div className="flex justify-end text-xs font-bold">
       <ul className="text-right flex flex-col gap-1">
         <li>
           <a
